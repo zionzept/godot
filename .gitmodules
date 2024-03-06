@@ -1,0 +1,3 @@
+[submodule "Projects/Bunny"]
+	path = Projects/Bunny
+	url = https://github.com/zionzept/Bunny.git
